@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+guid: c230abdc487152447a736da7f0c333c4
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Sprites/Pickups/Heart 3.controller.meta
+guid: 61059eed2561943aa89a24645b100e4b
+========
+guid: 6a1148376fc3890418f0950a8132ac6f
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/HeartFloat 3.anim.meta
+=======
+guid: c230abdc487152447a736da7f0c333c4
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+=======
+guid: c230abdc487152447a736da7f0c333c4
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+>>>>>>> Stashed changes
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

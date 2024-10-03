@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+guid: 173feb5a95ee4784a84eee274125187f
+=======
+<<<<<<<< HEAD:Assets/Animations/RobotSamurai_Attack_2.anim.meta
+guid: 173feb5a95ee4784a84eee274125187f
+========
+guid: 6a1148376fc3890418f0950a8132ac6f
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/HeartFloat 3.anim.meta
+>>>>>>> Stashed changes
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

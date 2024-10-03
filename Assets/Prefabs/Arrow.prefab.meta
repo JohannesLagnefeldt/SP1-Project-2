@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Prefabs/Arrow.prefab.meta
+guid: 121b23a144691c54d9786a92eb83b104
+PrefabImporter:
+========
+guid: 97b1c23822fdcc14e96d201b8828578d
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> Stashed changes:Assets/Sprites/Key Items 16x16.meta
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Prefabs/Big Diamond 3.prefab.meta
+guid: 29d3df45f387c4cf396d60b228921997
+=======
+<<<<<<<< HEAD:Assets/Prefabs/Player UI.prefab.meta
+guid: 7086ba1ef41f7ee43a1bbb4c89def67d
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+========
+guid: 121b23a144691c54d9786a92eb83b104
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Prefabs/Arrow.prefab.meta
+PrefabImporter:
+>>>>>>> Stashed changes
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

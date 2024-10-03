@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Sprites/Pickups/SmallDiamond 3.anim.meta
+guid: f93a280a220c2fe4d949a29f2387f5b7
+========
+guid: ce434e514d9782e4e9d57bb8d95c953e
+>>>>>>>> Stashed changes:Assets/Animations/SamuraiArcher.controller.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 6056fbba8b3114826b15f1eccb07717d
+=======
+<<<<<<<< HEAD:Assets/Sprites/Pickups/HeartFloat 3.anim.meta
+guid: eb8a012ab718746899c9a3f7e449390e
+========
+guid: f93a280a220c2fe4d949a29f2387f5b7
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/SmallDiamond 3.anim.meta
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+=======
+<<<<<<<< HEAD:Assets/Animations/RobotSamurai_Die.anim.meta
+guid: 59edbf52b30d69b4a83c0a0ee067af13
+========
+guid: f93a280a220c2fe4d949a29f2387f5b7
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/SmallDiamond 3.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+>>>>>>> Stashed changes
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

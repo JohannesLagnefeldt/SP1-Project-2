@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Sprites/Pickups/BigDiamond 3.anim.meta
+guid: 6fb1102503227194b8c8b48030073cab
+========
+guid: 6d9bca11d5a716344aa5cf49c70b6b0d
+>>>>>>>> Stashed changes:Assets/Animations/RobotSamurai_Idle.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: f026ec8e74bd14629aabbb0009bad7d2
+=======
+guid: 6fb1102503227194b8c8b48030073cab
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+=======
+<<<<<<<< HEAD:Assets/Animations/RobotSamurai.controller.meta
+guid: 5d58b67c0005540469a210154e526660
+========
+guid: 6fb1102503227194b8c8b48030073cab
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/BigDiamond 3.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+>>>>>>> Stashed changes
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

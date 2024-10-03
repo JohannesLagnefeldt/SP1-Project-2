@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+guid: 7086ba1ef41f7ee43a1bbb4c89def67d
+=======
+<<<<<<<< HEAD:Assets/Prefabs/Player UI.prefab.meta
+guid: 7086ba1ef41f7ee43a1bbb4c89def67d
+========
+guid: 121b23a144691c54d9786a92eb83b104
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Prefabs/Arrow.prefab.meta
+>>>>>>> Stashed changes
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

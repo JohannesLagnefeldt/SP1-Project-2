@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+guid: 65295087d0dffb149ba6be422b31493e
+folderAsset: yes
+DefaultImporter:
+=======
+<<<<<<<< HEAD:Assets/Sprites/Enemys/Samurai_Archer.meta
+guid: 65295087d0dffb149ba6be422b31493e
+folderAsset: yes
+DefaultImporter:
+========
+guid: 47a3cc75161268b4385b5ddf85b9cd13
+PrefabImporter:
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Prefabs/Big Diamond 3.prefab.meta
+>>>>>>> Stashed changes
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

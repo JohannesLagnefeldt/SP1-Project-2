@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Sprites/Pickups/HeartFloat 3.anim.meta
+guid: 6a1148376fc3890418f0950a8132ac6f
+========
+guid: 0418fe89785801d4094d934a591ff75f
+>>>>>>>> Stashed changes:Assets/Animations/RobotSamurai_Take_Hit.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Sprites/Pickups/HeartFloat 3.anim.meta
+guid: eb8a012ab718746899c9a3f7e449390e
+========
+guid: f93a280a220c2fe4d949a29f2387f5b7
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/SmallDiamond 3.anim.meta
+=======
+<<<<<<<< HEAD:Assets/Sprites/Pickups/Heart 3.controller.meta
+guid: 61059eed2561943aa89a24645b100e4b
+========
+guid: 6a1148376fc3890418f0950a8132ac6f
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/HeartFloat 3.anim.meta
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+=======
+<<<<<<<< HEAD:Assets/Animations/RobotSamurai_Attack_2.anim.meta
+guid: 173feb5a95ee4784a84eee274125187f
+========
+guid: 6a1148376fc3890418f0950a8132ac6f
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/HeartFloat 3.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72
+>>>>>>> Stashed changes
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

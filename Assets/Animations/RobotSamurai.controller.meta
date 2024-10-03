@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+guid: 5d58b67c0005540469a210154e526660
+=======
+<<<<<<<< HEAD:Assets/Animations/RobotSamurai.controller.meta
+guid: 5d58b67c0005540469a210154e526660
+========
+guid: 6fb1102503227194b8c8b48030073cab
+>>>>>>>> ade552dbcc27809a198e46191bc24a9df47b0f72:Assets/Sprites/Pickups/BigDiamond 3.anim.meta
+>>>>>>> Stashed changes
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
