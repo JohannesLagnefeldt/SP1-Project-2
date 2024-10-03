@@ -446,7 +446,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 3a4e82618f55f456fb2f1504342521e3, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -545,6 +545,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attack: {fileID: 8300000, guid: 5075cb06451ad4a3192237083114ba47, type: 3}
-  jump: {fileID: 8300000, guid: f7683c417f4b445648dfae52f08a0fd9, type: 3}
+  jump: {fileID: 8300000, guid: c470813de2be1fb419baaf12fd000d75, type: 3}
   takeDamage: {fileID: 8300000, guid: f7683c417f4b445648dfae52f08a0fd9, type: 3}
   run: {fileID: 8300000, guid: 3a4e82618f55f456fb2f1504342521e3, type: 3}
