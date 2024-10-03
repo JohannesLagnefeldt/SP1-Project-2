@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -68,6 +69,7 @@ public class Player : MonoBehaviour
         rigidBody.velocity = new Vector2(knockback, 1);
         if(currentHealth <= 0)
         {
+            SceneManager.LoadScene(0);
             print("Die");
         }
         stateMachine.ChangeState(takeHit);
