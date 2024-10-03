@@ -2090,7 +2090,7 @@ PrefabInstance:
     - target: {fileID: 8939528584142905352, guid: dc87234e7f968a049bc9ba27d7b140a8, type: 3}
       propertyPath: jump
       value: 
-      objectReference: {fileID: 8300000, guid: f7683c417f4b445648dfae52f08a0fd9, type: 3}
+      objectReference: {fileID: 8300000, guid: c470813de2be1fb419baaf12fd000d75, type: 3}
     - target: {fileID: 8939528584142905352, guid: dc87234e7f968a049bc9ba27d7b140a8, type: 3}
       propertyPath: attack
       value: 
